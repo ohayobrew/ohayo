@@ -10,7 +10,7 @@ var mongoose = require('mongoose');
 //var users = require('./routes/users');
 
 var app = express();
-var port = 27017;
+var port = 3000;
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
